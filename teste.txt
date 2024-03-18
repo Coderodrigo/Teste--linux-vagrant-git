@@ -1,7 +1,7 @@
 
 #This is the test
 
- #This File was created on local host and accessed through vargrant on a ubuntu virtual box, edited here and launched through git to my github.
+ #This File was created on local host and accessed through vai:igrant on a ubuntu virtual box, edited here and launched through git to my github.
 
 
  #Just to test things working
